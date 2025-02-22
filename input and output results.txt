@@ -1,0 +1,80 @@
+Welcome to Hangman!
+You have 6 attempts to guess the word.
+
+Current word: __________
+Enter a letter: c
+Good job! C is in the word.
+
+Current word: _____C____
+Enter a letter: d
+Oops! D is not in the word.
+You have 5 attempts left.
+
+Current word: _____C____
+Enter a letter: j
+Good job! J is in the word.
+
+Current word: J____C____
+Enter a letter: a
+Good job! A is in the word.
+
+Current word: JA_A_C____
+Enter a letter: v
+Good job! V is in the word.
+
+Current word: JAVA_C____
+Enter a letter: s
+Good job! S is in the word.
+
+Current word: JAVASC____
+Enter a letter: i
+Good job! I is in the word.
+
+Current word: JAVASC_I__
+Enter a letter: p
+Good job! P is in the word.
+
+Current word: JAVASC_IP_
+Enter a letter: t
+Good job! T is in the word.
+
+Current word: JAVASC_IPT
+Enter a letter: r
+Good job! R is in the word.
+
+Congratulations! You've guessed the word: JAVASCRIPT successful attempt
+
+
+You have 6 attempts to guess the word.
+
+Current word: ______
+Enter a letter: f
+Oops! F is not in the word.
+You have 5 attempts left.
+
+Current word: ______
+Enter a letter: f
+Oops! F is not in the word.
+You have 4 attempts left.
+
+Current word: ______
+Enter a letter: d
+Oops! D is not in the word.
+You have 3 attempts left.
+
+Current word: ______
+Enter a letter: s
+Oops! S is not in the word.
+You have 2 attempts left.
+
+Current word: ______
+Enter a letter: e
+Oops! E is not in the word.
+You have 1 attempts left.
+
+Current word: ______
+Enter a letter: r
+Oops! R is not in the word.
+You have 0 attempts left.
+
+Game over! The word was: PYTHON  failed attempt
